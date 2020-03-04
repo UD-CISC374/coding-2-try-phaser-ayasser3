@@ -1,4 +1,4 @@
-importScripts("/coding-2-try-phaser-ayasser3/finalprecache-manifest.b4428ac6329d97beac15e6abf5702b24.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("/coding-2-try-phaser-ayasser3/finalprecache-manifest.cb1df45fd7bf72b0516821da3a152838.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 /**
  * You should only modify this, if you know what you are doing.
